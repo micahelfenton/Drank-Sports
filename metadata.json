@@ -1,0 +1,5 @@
+{
+  "name": "SportsWatch App Multi Player",
+  "description": "A real-time, second-screen multiplayer game for sports fans. Create rooms, set silly rules based on game events, and compete with friends in drinking or family modes.",
+  "requestFramePermissions": []
+}
